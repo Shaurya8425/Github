@@ -5,3 +5,6 @@ print("Hello World")
 num1=1 #variable 1
 num2=2 #variable 2
 print(num1+num2)
+user_name="Shaurya Yadav"
+wish="Good Morning "
+print(wish+user_name)
