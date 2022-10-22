@@ -1,0 +1,3 @@
+[submodule "dmntk.atto.rs"]
+	path = dmntk.atto.rs
+	url = git@github.com:Shaurya8425/dmntk.atto.rs.git
